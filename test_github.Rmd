@@ -7,17 +7,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Type your name (or anything else) HERE: 
+Type your name (or anything else) HERE: Giraffes give birth standing up so baby giraffes fall like six feet to the ground right when they're born.
 
 Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+innout <- 9000
 
-red <- 15
+mcdonalds <- 4
 
-purple <- blue/red
+fiveguys <- innout/mcdonalds
 
 ```
 
